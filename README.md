@@ -1,5 +1,9 @@
 # Detecting Cell Nuclei in Confocal Microscope Images -  Coursework
 
+> **Note**  
+> The code has been shortened and the report has been removed to prevent plagiarism.  
+> Only key methods and their results are shown here.
+
 | Nuclei 1 | Nuclei 2 | Nuclei 3 |
 |----------------|---------|-----------|
 | ![Nuclei 1](imgs/StackNinja1.png) | ![Nuclei 3](imgs/StackNinja2.png) | ![Nuclei 13](imgs/StackNinja3.png) |
